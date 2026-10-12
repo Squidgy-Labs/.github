@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="../assets/squidgy-labs-stacked-on-dark.png" alt="Squidgy Labs" width="320">
+</p>
+
 # Welcome to Squidgy Labs 🧪
 
 We make Minecraft Bedrock content, from custom blocks and items to new ways to explore and play. Sometimes that involves chickens. Resourceful ones. 🐔
